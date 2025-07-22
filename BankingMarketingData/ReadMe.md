@@ -1,4 +1,4 @@
-#Bank Marketing EDA (Exploratory Data Analysis) with R
+#Bank Marketing EDA (Exploratory Data Analysis) with R.
 #This project performs an Exploratory Data Analysis (EDA) on the Bank Marketing Dataset from the UCI Machine Learning Repository. The data relates to direct marketing campaigns by a Portuguese bank to promote term deposits.
 #Objective
 To explore how different customer features (age, job, education, etc.) influence whether the client subscribes to a term deposit (target variable y). We calculate conversion rates to measure marketing success and provide strategic recommendations based on findings.
